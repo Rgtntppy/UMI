@@ -1,0 +1,100 @@
+Body {
+ Font-family:”Avenue Next”;
+}
+
+Li {
+ List-style:none;
+}
+
+.header {
+ Background-color:#26d0c9;
+ Color:#fff;
+ Height:90px;
+}
+
+.header-logo {
+ Float:left;
+ Font-size:36px;
+ Padding:20px 40px;
+}
+
+.header-list {
+ Float:left;
+}
+
+.header-list li {
+ Float:left;
+ Padding:33px 20px;
+}
+
+.main {
+ Padding:100px 80px;
+}
+
+.copy-container h1 {
+ Font-size:60px;
+}
+
+.copy-container span {
+ Color:#ff4a4a;
+}
+
+.contents {
+ Height:500px;
+ Margin-top:100px;
+}
+
+.section-title {
+ Border-bottom:2px solid #dee7ec;
+ Font-size:28px;
+ Padding-bottom:15px;
+ Margin-bottom:50px;
+}
+
+.contents-item {
+ Float:left;
+ Margin-right:40px;
+}
+
+.contents-item p {
+ Font-size:24px;
+ Margin-top:30px;
+}
+
+.contact-form {
+ Padding-top:100px;
+}
+
+Input,textarea{
+ Width:400px;
+ Margin-top:10px;
+ Margin-bottom:30px;
+ Padding:20px;
+ Font-size:18px;
+ Border:1px solid #dee7ec;
+}
+
+.contact-submit{
+ Background-color:#dee7ec;
+ Color:#889eab;
+}
+
+.footer {
+ Background-color:#2f5167;
+ Color:#fff;
+ Height:120px;
+ Padding:40px;
+}
+
+.footer-logo {
+ Float:left;
+ Font-size:32px;
+}
+
+.footer-list {
+ Float:right;
+}
+
+.footer-list li {
+ Padding-bottom:20px;
+}
